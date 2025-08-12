@@ -1,0 +1,6 @@
+flask
+google-generativeai
+pandas
+beautifulsoup4
+requests
+urllib3
