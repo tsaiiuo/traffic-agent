@@ -19,11 +19,11 @@
 
 ## 專案結構
 
-project/
-├── app.py # Flask 主程式（API 入口）
-├── util.py # 天氣/新聞整合服務
-├── requirements.txt # 套件需求清單
-└── README.md # 專案說明文件
+project:
+ -  app.py # Flask 主程式（API 入口）
+ -  util.py # 天氣/新聞整合服務
+ -  requirements.txt # 套件需求清單
+ -  README.md # 專案說明文件
 
 ---
 
